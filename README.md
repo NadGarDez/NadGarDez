@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NadGarDez
-- 👀 I’m interested in get job as a Javascript Developer
-- 🌱 I'm currently delving into JavaScript development and starting with Android native programming and data science with Python.
-- 💞️ I’m looking to collaborate on React Native Project or Node Projects
+- 👀 I’m interested in javascript projects.
+- 🌱 I'm web and mobile developer starting with python data science.
+- 💞️ I’m looking to collaborate in exciting projects.
 - 📫 How to reach me +584243121846 or iranad@hotmail.com
 
 <!---
